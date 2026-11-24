@@ -8,10 +8,7 @@
       <img src="./assets/moon.gif" width="52" alt="moon" />
     </td>
     <td align="center" valign="middle">
-      <img src="./assets/PixelArtRetrô.png" width="380" alt="retro pixel art banner" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="./assets/girl.gif" width="52" alt="girl" />
+      <img src="./assets/PixelArtRetro.png" width="380" alt="retro pixel art banner" />
     </td>
   </tr>
 </table>
@@ -33,7 +30,7 @@
 
 ---
 
-### <img src="./assets/config.jpeg" width="18" alt="config" /> Core Focus
+### <img src="./assets/config.jpeg" width="20" alt="config" /> Core Focus
 
 <img src="./assets/sword.jpeg" width="18" alt="sword" /> **Offensive Security & Tooling:** Custom port scanners, vulnerability scanners, honeypot services, and low-level network packet inspection.<br />
 <img src="./assets/sword.jpeg" width="18" alt="sword" /> **Network Protocols & Internals:** Raw TCP/UDP socket engines, custom HTTP/1.1 servers, proxies, and non-blocking I/O multiplexing.<br />
@@ -50,17 +47,13 @@
 
 <div align="center">
 
-### <img src="./assets/butterfly.jpeg" width="18" alt="butterfly" /> GitHub Overview
+### <img src="./assets/heart.jpeg" width="18" alt="heart" /> GitHub Overview
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=eyxzz&show_icons=true&bg_color=FFFFFF&title_color=6B21A8&icon_color=C084FC&text_color=4B5563&border_color=F3E8FF&hide_border=false&custom_title=GitHub%20Metrics" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyxzz&layout=compact&hide=html,css,javascript&bg_color=FFFFFF&title_color=6B21A8&text_color=4B5563&border_color=F3E8FF&hide_border=false" />
 
 <br /><br />
 
-<img src="./assets/ticket.jpeg" width="42" alt="ticket" />
-<img src="./assets/ArtCat.gif" width="56" alt="art cat" />
-<img src="./assets/3DFlower.gif" width="56" alt="3d flower" />
-<img src="./assets/HeartLove.gif" width="24" alt="heart love" />
-<img src="./assets/heart.jpeg" width="18" alt="heart" />
+<img src="./assets/HeartLove.gif" width="40" alt="heart love" />
 
 </div>
