@@ -65,7 +65,7 @@
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eyxzz&bg_color=FFFFFF&color=6B21A8&line=A855F7&point=7E22CE&area_color=F3E8FF&area=true&hide_border=true" alt="eyxzz contribution graph" />
+<img src="https://raw.githubusercontent.com/eyxzz/eyxzz/output/contribution-fx.svg" alt="eyxzz purple contribution graph" />
 
 <br /><br />
 
