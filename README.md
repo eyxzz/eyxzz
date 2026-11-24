@@ -3,7 +3,7 @@
 <img src="./banner.png" width="100%" alt="eyxzz banner" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=6B21A8&center=true&vCenter=true&width=650&lines=Backend+Development+%26+Offensive+Security;Network+Protocols+%7C+Vulnerability+Research+%7C+AppSec;Java+27+%7C+Spring+Security+%7C+C%2B%2B+%7C+C%23+%2F+.NET" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=900&color=6B21A8&center=true&vCenter=true&width=700&lines=Backend+Development+%26+Offensive+Security;Raw+Sockets+%7C+Vulnerability+Research+%7C+AppSec;Java+27+%7C+Spring+Security+%7C+C%2B%2B+%7C+C%23+%2F+.NET" alt="Typing SVG Header" />
 </p>
 
 <p align="center">
@@ -16,10 +16,11 @@
 </p>
 
 <p align="center">
-  <img src="./pixel-spark.png" width="20" alt="pixel spark" />
-  <img src="./pixel-terminal.png" width="20" alt="pixel terminal" />
-  <img src="./pixel-lock.png" width="20" alt="pixel lock" />
-  <img src="./pixel-spark.png" width="20" alt="pixel spark" />
+  <img src="./pixel-spark.png" width="22" alt="pixel spark" />
+  <img src="COLE_AQUI_O_LINK_DO_GIF_JOGUINHO_1.gif" width="72" alt="pixel game gif 1" />
+  <img src="./pixel-terminal.png" width="22" alt="pixel terminal" />
+  <img src="./pixel-lock.png" width="22" alt="pixel lock" />
+  <img src="./pixel-spark.png" width="22" alt="pixel spark" />
 </p>
 
 </div>
@@ -32,6 +33,12 @@
 * <img src="./pixel-spark.png" width="16" alt="spark" /> **Network Protocols & Internals:** Raw TCP/UDP socket engines, custom HTTP/1.1 servers, proxies, and non-blocking I/O multiplexing.
 * <img src="./pixel-lock.png" width="16" alt="lock" /> **Application Security & Cryptography:** JWT authentication/authorization services, SHA-256 tamper detection, and secure backend architectures.
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1100&color=7E22CE&center=true&vCenter=true&width=650&lines=%3E_+scanning+ports+and+protocol+behavior...;%3E_+verifying+auth+flows+and+token+integrity...;%3E_+tuning+sockets+and+storage+engines..." alt="Typing SVG Status" />
+  <br />
+  <img src="COLE_AQUI_O_LINK_DO_GIF_JOGUINHO_2.gif" width="110" alt="pixel game gif 2" />
+</div>
+
 ---
 
 <div align="center">
@@ -41,6 +48,12 @@
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=eyxzz&show_icons=true&bg_color=FFFFFF&title_color=6B21A8&icon_color=C084FC&text_color=4B5563&border_color=F3E8FF&hide_border=false&custom_title=GitHub%20Metrics" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyxzz&layout=compact&hide=html,css,javascript&bg_color=FFFFFF&title_color=6B21A8&text_color=4B5563&border_color=F3E8FF&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="./pixel-spark.png" width="16" alt="pixel spark" />
+  <img src="./pixel-lock.png" width="16" alt="pixel lock" />
+  <img src="./pixel-spark.png" width="16" alt="pixel spark" />
 </p>
 
 </div>
