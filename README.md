@@ -21,11 +21,29 @@
 
 <br />
 
-### <img src="./assets/config.jpeg" width="20" alt="config" /> Core Focus
+### <img src="./assets/config.jpeg" width="20" alt="config" /> Core Focus *(click to inspect)*
 
-<img src="./assets/sword.jpeg" width="18" alt="sword" /> **Offensive Security & Tooling:** Custom port scanners, vulnerability scanners, honeypot services, and low-level network packet inspection.<br />
-<img src="./assets/sword.jpeg" width="18" alt="sword" /> **Network Protocols & Internals:** Raw TCP/UDP socket engines, custom HTTP/1.1 servers, proxies, and non-blocking I/O multiplexing.<br />
-<img src="./assets/sword.jpeg" width="18" alt="sword" /> **Application Security & Cryptography:** JWT authentication/authorization services, SHA-256 tamper detection, and secure backend architectures.
+<details>
+  <summary><img src="./assets/sword.jpeg" width="18" alt="sword" /> <strong>Offensive Security &amp; Tooling</strong></summary>
+  <br />
+  Custom port scanners, vulnerability scanners, honeypot services, and low-level network packet inspection built to study exposure, service behavior, and detection patterns.
+</details>
+
+<br />
+
+<details>
+  <summary><img src="./assets/sword.jpeg" width="18" alt="sword" /> <strong>Network Protocols &amp; Internals</strong></summary>
+  <br />
+  Raw TCP/UDP socket engines, custom HTTP/1.1 servers, proxies, and non-blocking I/O multiplexing focused on throughput, latency, and wire-level protocol mechanics.
+</details>
+
+<br />
+
+<details>
+  <summary><img src="./assets/sword.jpeg" width="18" alt="sword" /> <strong>Backend &amp; AppSec Architecture</strong></summary>
+  <br />
+  JWT authentication and authorization flows, SHA-256 tamper detection, and structured backend services using Java 27, Spring Security, C++, C#/.NET, and MySQL.
+</details>
 
 <div align="center">
   <br />
