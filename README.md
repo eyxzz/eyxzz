@@ -19,7 +19,7 @@
 
 </div>
 
----
+<br />
 
 ### <img src="./assets/config.jpeg" width="20" alt="config" /> Core Focus
 
@@ -34,7 +34,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1100&color=7E22CE&center=true&vCenter=true&width=650&lines=%3E_+scanning+ports+and+protocol+behavior...;%3E_+verifying+auth+flows+and+token+integrity...;%3E_+tuning+sockets+and+storage+engines..." alt="Typing SVG Status" />
 </div>
 
----
+<br />
 
 <div align="center">
 
