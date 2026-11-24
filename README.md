@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="eyxzz banner" />
+<img src="./banner.png" width="100%" alt="eyxzz banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=6B21A8&center=true&vCenter=true&width=650&lines=Backend+Development+%26+Offensive+Security;Network+Protocols+%7C+Vulnerability+Research+%7C+AppSec;Java+27+%7C+Spring+Security+%7C+C%2B%2B+%7C+C%23+%2F+.NET" alt="Typing SVG" />
@@ -16,42 +16,31 @@
 </p>
 
 <p align="center">
-  <img src="./pixel-spark.svg" width="18" alt="pixel spark" />
-  <img src="./pixel-skull-bug.svg" width="18" alt="pixel security" />
-  <img src="./pixel-node.svg" width="18" alt="pixel network" />
-  <img src="./pixel-key.svg" width="18" alt="pixel crypto" />
-  <img src="./pixel-spark.svg" width="18" alt="pixel spark" />
+  <img src="./pixel-spark.png" width="20" alt="pixel spark" />
+  <img src="./pixel-terminal.png" width="20" alt="pixel terminal" />
+  <img src="./pixel-lock.png" width="20" alt="pixel lock" />
+  <img src="./pixel-spark.png" width="20" alt="pixel spark" />
 </p>
 
 </div>
 
-<p align="center">
-  <img src="./pixel-divider.svg" width="100%" alt="pixel divider" />
-</p>
+---
 
-### <img src="./pixel-spark.svg" width="18" alt="spark" /> Core Focus
+### <img src="./pixel-spark.png" width="18" alt="spark" /> Core Focus
 
-* <img src="./pixel-skull-bug.svg" width="16" alt="security" /> **Offensive Security & Tooling:** Custom port scanners, vulnerability scanners, honeypot services, and low-level network packet inspection.
-* <img src="./pixel-node.svg" width="16" alt="network" /> **Network Protocols & Internals:** Raw TCP/UDP socket engines, custom HTTP/1.1 servers, proxies, and non-blocking I/O multiplexing.
-* <img src="./pixel-key.svg" width="16" alt="crypto" /> **Application Security & Cryptography:** JWT authentication/authorization services, SHA-256 tamper detection, and secure backend architectures.
+* <img src="./pixel-terminal.png" width="16" alt="terminal" /> **Offensive Security & Tooling:** Custom port scanners, vulnerability scanners, honeypot services, and low-level network packet inspection.
+* <img src="./pixel-spark.png" width="16" alt="spark" /> **Network Protocols & Internals:** Raw TCP/UDP socket engines, custom HTTP/1.1 servers, proxies, and non-blocking I/O multiplexing.
+* <img src="./pixel-lock.png" width="16" alt="lock" /> **Application Security & Cryptography:** JWT authentication/authorization services, SHA-256 tamper detection, and secure backend architectures.
 
-<p align="center">
-  <img src="./pixel-divider.svg" width="100%" alt="pixel divider" />
-</p>
+---
 
 <div align="center">
 
-### <img src="./pixel-spark.svg" width="18" alt="spark" /> GitHub Overview
+### <img src="./pixel-spark.png" width="18" alt="spark" /> GitHub Overview
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=eyxzz&show_icons=true&bg_color=FFFFFF&title_color=6B21A8&icon_color=C084FC&text_color=4B5563&border_color=F3E8FF&hide_border=false&custom_title=GitHub%20Metrics" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyxzz&layout=compact&hide=html,css,javascript&bg_color=FFFFFF&title_color=6B21A8&text_color=4B5563&border_color=F3E8FF&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="./pixel-spark.svg" width="16" alt="pixel spark" />
-  <img src="./pixel-key.svg" width="16" alt="pixel key" />
-  <img src="./pixel-spark.svg" width="16" alt="pixel spark" />
 </p>
 
 </div>
