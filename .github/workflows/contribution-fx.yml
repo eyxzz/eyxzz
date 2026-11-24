@@ -24,6 +24,10 @@ jobs:
           mode: light
           out-dir: dist
 
+      - name: Recolor SVG to lavender/purple
+        run: |
+          sed -i 's/#9be9a8/#e9d5ff/g; s/#40c463/#c084fc/g; s/#30a14e/#9333ea/g; s/#216e39/#6b21a8/g' dist/contribution-fx.svg
+
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v5
         with:
