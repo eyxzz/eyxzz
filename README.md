@@ -1,20 +1,17 @@
 <div align="center">
 
-<h1>eyxzz</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=600&color=7E22CE&center=true&vCenter=true&width=420&lines=e+y+x+z+z+;+y+x+z+z+;+++x+z+z+;+++++z+z+;+++++++z+;+++++++++;e+y+x+z+z" alt="eyxzz retro chomp" />
 
 <table>
   <tr>
     <td align="center" valign="middle">
-      <img src="./assets/moon.gif" width="48" alt="moon" />
+      <img src="./assets/moon.gif" width="52" alt="moon" />
     </td>
     <td align="center" valign="middle">
-      <img src="./assets/computer.jpeg" width="130" alt="computer" />
+      <img src="./assets/PixelArtRetrô.png" width="380" alt="retro pixel art banner" />
     </td>
     <td align="center" valign="middle">
-      <img src="./assets/messagebox.jpeg" width="140" alt="message box" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="./assets/girl.gif" width="48" alt="girl" />
+      <img src="./assets/girl.gif" width="52" alt="girl" />
     </td>
   </tr>
 </table>
@@ -38,11 +35,14 @@
 
 ### <img src="./assets/config.jpeg" width="18" alt="config" /> Core Focus
 
-* <img src="./assets/sword.jpeg" width="18" alt="sword" /> **Offensive Security & Tooling:** Custom port scanners, vulnerability scanners, honeypot services, and low-level network packet inspection.
-* <img src="./assets/computer.jpeg" width="18" alt="computer" /> **Network Protocols & Internals:** Raw TCP/UDP socket engines, custom HTTP/1.1 servers, proxies, and non-blocking I/O multiplexing.
-* <img src="./assets/config.jpeg" width="18" alt="config" /> **Application Security & Cryptography:** JWT authentication/authorization services, SHA-256 tamper detection, and secure backend architectures.
+<img src="./assets/sword.jpeg" width="18" alt="sword" /> **Offensive Security & Tooling:** Custom port scanners, vulnerability scanners, honeypot services, and low-level network packet inspection.<br />
+<img src="./assets/sword.jpeg" width="18" alt="sword" /> **Network Protocols & Internals:** Raw TCP/UDP socket engines, custom HTTP/1.1 servers, proxies, and non-blocking I/O multiplexing.<br />
+<img src="./assets/sword.jpeg" width="18" alt="sword" /> **Application Security & Cryptography:** JWT authentication/authorization services, SHA-256 tamper detection, and secure backend architectures.
 
 <div align="center">
+  <br />
+  <img src="./assets/note.jpeg" width="120" alt="note" />
+  <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1100&color=7E22CE&center=true&vCenter=true&width=650&lines=%3E_+scanning+ports+and+protocol+behavior...;%3E_+verifying+auth+flows+and+token+integrity...;%3E_+tuning+sockets+and+storage+engines..." alt="Typing SVG Status" />
 </div>
 
@@ -57,21 +57,10 @@
 
 <br /><br />
 
-<table>
-  <tr>
-    <td align="center" valign="middle"><img src="./assets/note.jpeg" width="90" alt="note" /></td>
-    <td align="center" valign="middle"><img src="./assets/ArtCat.gif" width="56" alt="art cat" /></td>
-    <td align="center" valign="middle"><img src="./assets/3DFlower.gif" width="56" alt="3d flower" /></td>
-  </tr>
-</table>
-
-<br />
-
-<img src="./assets/arrow.jpeg" width="14" alt="arrow" />
-<img src="./assets/ticket.jpeg" width="40" alt="ticket" />
-<img src="./assets/phone.jpeg" width="36" alt="phone" />
-<img src="./assets/HeartLove.gif" width="22" alt="heart love" />
-<img src="./assets/heart.jpeg" width="16" alt="heart" />
-<img src="./assets/arrow.jpeg" width="14" alt="arrow" />
+<img src="./assets/ticket.jpeg" width="42" alt="ticket" />
+<img src="./assets/ArtCat.gif" width="56" alt="art cat" />
+<img src="./assets/3DFlower.gif" width="56" alt="3d flower" />
+<img src="./assets/HeartLove.gif" width="24" alt="heart love" />
+<img src="./assets/heart.jpeg" width="18" alt="heart" />
 
 </div>
